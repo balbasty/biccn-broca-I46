@@ -4,13 +4,12 @@ Code used to generate a cellular resolution atlas of Broca's area (sample I46)
 This code relates to the paper:
 
 > **A cellular resolution atlas of Broca’s area**
-> &nbsp;
+>
 > Irene Costantini<sup>‡</sup>, 
 > Leah Morgan<sup>‡</sup>, 
 > Jiarui Yang<sup>‡</sup>, 
 > Yael Balbastre<sup>‡</sup>, 
 > Divya Varadarajan<sup>‡</sup>, 
-> &nbsp;
 > Luca Pesce, 
 > Marina Scardigli, 
 > Giacomo Mazzamuto, 
@@ -41,11 +40,10 @@ This code relates to the paper:
 > Robert Frost, 
 > Andre van der Kouwe, 
 > Shih-Chi Chen, 
-> &nbsp;
 > David A. Boas<sup>†</sup>, 
 > Francesco Saverio Pavone<sup>†</sup>, 
 > Bruce Fischl<sup>†</sup>, 
 > Patrick R. Hoff<sup>†</sup>
-> &nbsp;
+> 
 > (2023)
 
