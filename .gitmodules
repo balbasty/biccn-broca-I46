@@ -1,0 +1,10 @@
+[submodule "external/ZetaStitcher"]
+	path = external/ZetaStitcher
+	url = https://github.com/lens-biophotonics/ZetaStitcher
+[submodule "external/biolabtools"]
+	path = external/biolabtools
+	url = https://github.com/lens-biophotonics/biolabtools
+[submodule "external/nitorch"]
+	path = external/nitorch
+	url = https://github.com/balbasty/nitorch
+	branch = refactor-registration-preproc
