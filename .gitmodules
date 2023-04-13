@@ -8,3 +8,9 @@
 	path = external/nitorch
 	url = https://github.com/balbasty/nitorch
 	branch = refactor-registration-preproc
+[submodule "external/metrics"]
+	path = external/metrics
+	url = https://github.com/balbasty/metrics
+[submodule "external/exvivoMRI_preproc"]
+	path = external/exvivoMRI_preproc
+	url = https://github.com/dvya/exvivoMRI_preproc
